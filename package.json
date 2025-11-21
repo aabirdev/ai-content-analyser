@@ -17,9 +17,7 @@
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
     "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
-  }
-{
-  "homepage": "https://YOUR-USERNAME.github.io/ai-content-analyzer",
+ ,"homepage": "https://YOUR-USERNAME.github.io/ai-content-analyzer",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
@@ -28,5 +26,7 @@
     "gh-pages": "^5.0.0"
   }
 }
+  }
 
-}
+  
+
